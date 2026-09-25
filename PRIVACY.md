@@ -1,12 +1,12 @@
 ---
 title: "Privacy Policy"
-app: "Bricks Breaker"
+app: "Cannon Raid Bricks Breaker"
 developer: "AZ Group (AZ GP Games)"
 contact: "azgroup.games@gmail.com"
 effective: "2026-09-25"
 ---
 
-# Privacy Policy — Bricks Breaker
+# Privacy Policy — Cannon Raid Bricks Breaker
 
 **Developer:** AZ Group (AZ GP Games)
 **Contact:** azgroup.games@gmail.com
@@ -14,7 +14,7 @@ effective: "2026-09-25"
 
 ## Summary
 
-Bricks Breaker is an offline arcade game. Your game progress, coins, weapons and
+Cannon Raid Bricks Breaker is an offline arcade game. Your game progress, coins, weapons and
 settings are stored **only on your device** and are never uploaded to us. We do
 not have user accounts, and we do not operate game servers.
 
@@ -68,7 +68,7 @@ and `com.google.android.gms.permission.AD_ID`.
 
 ## Children
 
-Bricks Breaker is suitable for **all ages** and is intended to be family-friendly.
+Cannon Raid Bricks Breaker is suitable for **all ages** and is intended to be family-friendly.
 
 - The game does not knowingly collect personal information from children.
 - The game is configured for **child-directed treatment**, which means the
@@ -93,7 +93,7 @@ by Google — use the opt-out links above, or contact us and we will point you t
 the right authority.
 
 To erase everything this app holds on your device: **Settings → Apps →
-Bricks Breaker → Clear data**, or simply uninstall the app.
+Cannon Raid Bricks Breaker → Clear data**, or simply uninstall the app.
 
 ## Security
 

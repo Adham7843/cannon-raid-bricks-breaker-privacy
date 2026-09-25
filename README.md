@@ -1,8 +1,8 @@
-# Privacy Policy — Bricks Breaker
+# Privacy Policy — Cannon Raid Bricks Breaker
 
-Hosted at: **https://adham7843.github.io/bricks-breaker-privacy/**
+Hosted at: **https://adham7843.github.io/cannon-raid-bricks-breaker-privacy/**
 
-This repository hosts the published privacy policy for **Bricks Breaker** by
+This repository hosts the published privacy policy for **Cannon Raid Bricks Breaker** by
 AZ Group (AZ GP Games).
 
 - `index.html` — the published page (this is what Play Console links to)
